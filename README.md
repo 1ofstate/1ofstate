@@ -92,7 +92,5 @@
 **Enter the State.**
 
 `@1ofstate` | `1ofstate.io` (Coming soon)
- ![unnamed (1)](https://github.com/user-attachments/assets/0c0d6f93-d315-4c0f-9e43-718f671a76dc)
-
-
+ <img width="646" height="598" alt="2025-10-08_21-18-30" src="https://github.com/user-attachments/assets/91db69e5-9973-4179-b5e4-7fe7271e5c94" />
 
