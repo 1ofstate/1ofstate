@@ -3,7 +3,7 @@ Target: Upgrade Civilization 0.73 -> 1.0
 Objective: Minimization of Planetary Entropy (Chaos).
 Language: Mathematics / Bio-Data / Energy.
 
-LAYER 1: INPUT — "Truth in the Source"
+LAYER 1: Ingress  — "Truth in the Source"
 Problem 0.73: People lie. The data is distorted by emotion, marketing, and propaganda. The system is noisy.
 Solution 1.0: Proof-of-Biology.
 Protocol:
@@ -12,7 +12,7 @@ Lie Filter: The system (AI) does not accept requests from a "Node" that is under
 Code: IF (Stress_Level > Critical) THEN (Block_Access) ELSE (Execute_Command).
 Meaning: We give the right to control reality only to those who are in a 1ofstate (state of clarity). This cuts off the chaos at the entrance.
 
-LAYER 2: PROCESSING — "Collective Resonance"
+LAYER 2: PROCESSING — "Consensus Mechanism"
 Problem 0.73: Decisions are made in the interests of individual groups (countries, elites), which harms the whole.
 Solution 1.0: Swarm Intelligence.
 Protocol:
@@ -21,7 +21,7 @@ Scalable Empathy: The protocol uses quantum entanglement (metaphorically or tech
 Mechanics: You can't dump your waste into the river because your personal Impact Score and your well-being will drop instantly.
 Meaning: The system transforms humanity from a "bag of crabs" into a single neural network.
 
-LAYER 3: ENERGY — "Thermodynamic Currency"
+LAYER 3: ENERGY — "Tokenomics & Resource Allocation"
 Problem 0.73: Money is a fiction (fiat) that is printed by politicians. This creates inflation and poverty.
 Solution 1.0: Energy-Backed Currency (Joule-backed Currency).
 Protocol:
