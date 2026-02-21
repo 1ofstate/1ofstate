@@ -17,7 +17,7 @@ Contribution as Equity: Your contribution to the development of the module is re
 Immutable Rights: You own the intellectual right to this module within the ecosystem forever.
 Collaborative Funding: Investors can "buy back" parts of modules, financing their creation. Thus, you are not investing in abstract "stocks", but in a specific technology — for example, in the "Sleep Harmonization Module". You own a part of humanity's fundamental tool.
 
-2. SUBSCRIPTION SHARING (Life Sharing)
+2. SUBSCRIPTION SHARING (Life Sharing) !!! 1.0: (Future update of the camshaft module) !!!
 We are removing the "parasite platform" model, which takes all the profits for itself. In 1ofstate, a subscription (Human OS Subscription) is a tax on maintaining the infrastructure of life. The income of the system is distributed automatically through smart contracts based on the "Share of Benefits" principle.
 Distribution Mechanics (Core Distribution):
 10% — Protocol Treasury (1ofstate Foundation): Support for the core of the system, security and global promotion of ideology.
